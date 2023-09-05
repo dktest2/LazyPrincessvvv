@@ -68,7 +68,7 @@ async def doc(bot, update):
     new_filename = new_name.split(":-")[1]
     file = update.message.reply_to_message
     file_path = f"downloads/{new_filename}"
-    ms = await update.message.edit("\n༻☬ད 𝘽𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙇𝙖𝙯𝙮 𝙈𝙚𝙩𝙖𝘿𝙖𝙩𝙖...")
+    ms = await update.message.edit("\n༻☬ད 𝘽𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝗞𝗞 𝙈𝙚𝙩𝙖𝘿𝙖𝙩𝙖...")
     c_time = time.time()
     try:
         path = await bot.download_media(
@@ -112,7 +112,7 @@ async def doc(bot, update):
         img = Image.open(ph_path)
         img.resize((320, 320))
         img.save(ph_path, "JPEG")
-    await ms.edit("三 𝘗𝘳𝘦𝘱𝘢𝘳𝘪𝘯𝘨 𝘵𝘰 𝘳𝘦𝘤𝘦𝘪𝘷𝘦 𝘓𝘢𝘻𝘺 𝘧𝘪𝘭𝘦...︻デ═一")
+    await ms.edit("三 𝘗𝘳𝘦𝘱𝘢𝘳𝘪𝘯𝘨 𝘵𝘰 𝘳𝘦𝘤𝘦𝘪𝘷𝘦 𝘒𝘒_𝘉𝘖𝘛𝘚 𝘧𝘪𝘭𝘦...︻デ═一")
     c_time = time.time() 
     try:
        if type == "document":
@@ -153,7 +153,7 @@ async def doc(bot, update):
        os.remove(ph_path) 
 
 
-# Born to make history @LazyDeveloper !
+# Born to make history @movie_a1 !
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):
 
@@ -335,7 +335,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/ilove_ram')
+	    InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/ilove_ram/139')
         ] 
     )
 
@@ -1048,7 +1048,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     # elif query.data == "getlazythumbnail":
     #     buttons = [
     #         [
-    #         InlineKeyboardButton("D͢o͢n͢a͢t͢e͢ L͢a͢z͢y͢D͢e͢v͢", callback_data="thdonatelazydev"),
+    #         InlineKeyboardButton("D͢o͢n͢a͢t͢e͢ KK_BOTS", callback_data="thdonatelazydev"),
     #         ],
     #         [ InlineKeyboardButton("<- G̳O̳ ̳B̳A̳C̳K̳  ⨳", callback_data="lazyhome") ]
     #         ]
@@ -1071,7 +1071,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     # elif query.data == "getlazylink":
     #     buttons = [
     #         [
-    #         InlineKeyboardButton("D͢o͢n͢a͢t͢e͢ L͢a͢z͢y͢D͢e͢v͢", callback_data="linkdonatelazydev"),
+    #         InlineKeyboardButton("D͢o͢n͢a͢t͢e͢ KK_BOTS", callback_data="linkdonatelazydev"),
     #         ],
     #         [ InlineKeyboardButton("<- G̳O̳ ̳B̳A̳C̳K̳  ⨳", callback_data="lazyhome") ]
     #         ]
@@ -1092,7 +1092,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     elif query.data == "lazyhome":
-        text = f"""\n⨳ *•.¸♡ DK ＭⓄｄ𝓔 ♡¸.•* ⨳\n\n**Please tell, what should i do with this file.?**\n"""
+        text = f"""\n⨳ *•.¸♡ KK ＭⓄｄ𝓔 ♡¸.•* ⨳\n\n**Please tell, what should i do with this file.?**\n"""
         buttons = [[ InlineKeyboardButton("📝✧✧ S𝚝ar𝚝 re𝚗aᗰi𝚗g ✧✧📝", callback_data="rename") ],
                            [ InlineKeyboardButton("⨳  C L Ф S Ξ  ⨳", callback_data="cancel") ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1136,7 +1136,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     # elif query.data == "reqauthgetlazylink":
     #     buttons = [
     #         [
-    #         InlineKeyboardButton("D͢o͢n͢a͢t͢e͢ DK_BOT", callback_data="linkdonatelazydev"),
+    #         InlineKeyboardButton("D͢o͢n͢a͢t͢e͢ KK_BOTS", callback_data="linkdonatelazydev"),
     #         ],
     #         [ InlineKeyboardButton("<- G̳O̳ ̳B̳A̳C̳K̳  ⨳", callback_data="reqauthlazyhome") ]
     #         ]
@@ -1467,7 +1467,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ʜᴏᴡ to ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://telegram.me/LazyDeveloper'),
+	    InlineKeyboardButton(text="⚡ʜᴏᴡ to ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/ilove_ram/139'),
         ] 
     )
     if offset != "":
@@ -1483,7 +1483,7 @@ async def auto_filter(client, msg, spoll=False):
             [InlineKeyboardButton(text="🗓 1/1", callback_data="pages")]
         )
 
-    #waiting user to complete imdb process @LazyDeveloperr
+    #waiting user to complete imdb process @movie_a1
     user = message.from_user
     full_name = user.first_name + " " + user.last_name if user.last_name else user.first_name
     waiting_message = await message.reply_text(f"Setting up your request {full_name}...")
@@ -1603,7 +1603,7 @@ async def advantage_spell_chok(msg):
     movielist += [(re.sub(r'(\-|\(|\)|_)', '', i, flags=re.IGNORECASE)).strip() for i in gs_parsed]
     movielist = list(dict.fromkeys(movielist))  # removing duplicates
     if not movielist:
-        k = await msg.reply("Hey Sona! The requested content is currently unavailable in our database, have some patience 🙂 - our great admin will upload it as soon as possible \n\n               **or**\n\nDiscuss issue with admin here 👉  <a href='https://t.me/Discusss_Here'>Discuss Here</a> ♥️ ")
+        k = await msg.reply("Hey Sona! The requested content is currently unavailable in our database, have some patience 🙂 - our great admin will upload it as soon as possible \n\n               **or**\n\nDiscuss issue with admin here 👉  <a href='https://t.me/+qUk9BEId5Lw3MzM1'>Discuss Here</a> ♥️ ")
         await asyncio.sleep(10)
         await k.delete()
         return
@@ -1615,7 +1615,7 @@ async def advantage_spell_chok(msg):
         )
     ] for k, movie in enumerate(movielist)]
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spolling#{user}#close_spellcheck')])
-    await msg.reply("Hey sona, did you checked your spelling properly, here are some suggestions for you, please check if your requested content match anyone of these following suggestions...\n\n                 **or**\n\nDiscuss issue with admin here 👉 <a href='https://t.me/Discusss_Here'>Discuss Here</a> ♥️ ",
+    await msg.reply("Hey sona, did you checked your spelling properly, here are some suggestions for you, please check if your requested content match anyone of these following suggestions...\n\n                 **or**\n\nDiscuss issue with admin here 👉 <a href='https://t.me/+qUk9BEId5Lw3MzM1'>Discuss Here</a> ♥️ ",
                     reply_markup=InlineKeyboardMarkup(btn))
 
 
