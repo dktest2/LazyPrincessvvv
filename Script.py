@@ -25,7 +25,7 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - KK_BOTS is an open source project. 
-- Source -  https://graph.org/file/d8db5b5495bea7884ed1e.mp4
+- Source - <a href='https://graph.org/file/d8db5b5495bea7884ed1e.mp4'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
 
 <b>KK_BOTS:</b>
 - <a href=https://t.me/R_KOHLI>RAVI KOHLI</a>"""
