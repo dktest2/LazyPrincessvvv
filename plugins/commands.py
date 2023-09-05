@@ -384,7 +384,7 @@ async def delete_all_index(bot, message):
 @Client.on_callback_query(filters.regex(r'^autofilter_delete'))
 async def delete_all_index_confirm(bot, message):
     await Media.collection.drop()
-    await message.answer('♥️ Thank You DK_BOT ♥️')
+    await message.answer('♥️ Thank You KK_BOTS ♥️')
     await message.message.edit('Succesfully Deleted All The Indexed Files.')
 
 
