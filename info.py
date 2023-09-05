@@ -63,7 +63,7 @@ LAZY_RENAMERS = (lazy_renamers + ADMINS) if lazy_renamers else []
 REQ_CHANNEL = int(environ.get('REQ_CHANNEL'))
 
 #ai
-OPENAI_API = environ.get("OPENAI_API","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")
+OPENAI_API = environ.get("OPENAI_API","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")
 AI = is_enabled((environ.get("AI","True")), False)
 LAZY_AI_LOGS = int(environ.get("LAZY_AI_LOGS","-1001758776529")) #GIVE YOUR NEW LOG CHANNEL ID TO STORE MESSAGES THAT THEY SEARCH IN BOT PM.... [ i have added this to keep an eye on the users message, to avoid misuse of LazyPrincess ]
 # Requested Content template variables ---
