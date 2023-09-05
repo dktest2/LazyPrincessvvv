@@ -208,7 +208,7 @@ async def next_page(bot, query):
                         ]
                         for file in files
                     ]
-                elif query.from_user.id in LZURL_PRIME_USERS:
+                elif query.from_user.id in KKURL_PRIME_USERS:
                     btn = [
                         [
                             InlineKeyboardButton(
@@ -679,7 +679,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
         ],[
-            InlineKeyboardButton('JION CHATS', url='https://t.me/+qUk9BEId5Lw3MzM1')
+            InlineKeyboardButton('JOIN CHATS', url='https://t.me/+qUk9BEId5Lw3MzM1')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -809,7 +809,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
             ],[
-                InlineKeyboardButton(text=f"⚡️ JION CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
+                InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
 
             ]]
             btn_lzdv = [
@@ -837,7 +837,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
             ],[
-                InlineKeyboardButton(text=f"⚡️ JION CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
+                InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
             ]]
             btn_lzdv = [
                 [
@@ -864,7 +864,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
             ],[
-                InlineKeyboardButton(text=f"⚡️ JION CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
+                InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
 
             ]]
             btn_lzdv = [
@@ -892,7 +892,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
             ],[
-                InlineKeyboardButton(text=f"⚡️ JION CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
+                InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
             ]]
             btn_lzdv = [
                 [
@@ -919,7 +919,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
             ],[
-                InlineKeyboardButton(text=f"⚡️ JION CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
+                InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
 
             ]]
             btn_lzdv = [
@@ -947,7 +947,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
             ],[
-                InlineKeyboardButton(text=f"⚡️ JION CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
+                InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
             ]]
             btn_lzdv = [
                 [
@@ -974,7 +974,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
             ],[
-                InlineKeyboardButton(text=f"⚡️ JION CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
+                InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
 
             ]]
             btn_lzdv = [
