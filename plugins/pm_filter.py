@@ -807,7 +807,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
+                InlineKeyboardButton(text=f"💖 RAM RAM 💖", url=f"https://t.me/ilove_ram")
             ],[
                 InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
 
@@ -835,7 +835,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
+                InlineKeyboardButton(text=f"💖 RAM RAM 💖", url=f"https://t.me/ilove_ram")
             ],[
                 InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
             ]]
@@ -862,7 +862,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
+                InlineKeyboardButton(text=f"💖 RAM RAM 💖", url=f"https://t.me/ilove_ram")
             ],[
                 InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
 
@@ -890,7 +890,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
+                InlineKeyboardButton(text=f"💖 RAM RAM 💖", url=f"https://t.me/ilove_ram")
             ],[
                 InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
             ]]
@@ -917,7 +917,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
+                InlineKeyboardButton(text=f"💖 RAM RAM 💖", url=f"https://t.me/ilove_ram")
             ],[
                 InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
 
@@ -945,7 +945,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
+                InlineKeyboardButton(text=f"💖 RAM RAM 💖", url=f"https://t.me/ilove_ram")
             ],[
                 InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
             ]]
@@ -972,7 +972,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"💛 Request More 💛", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"https://t.me/ilove_ram")
+                InlineKeyboardButton(text=f"💖 RAM RAM 💖", url=f"https://t.me/ilove_ram")
             ],[
                 InlineKeyboardButton(text=f"⚡️ JOIN CHATS 🦋", url=f"https://t.me/+qUk9BEId5Lw3MzM1")
 
